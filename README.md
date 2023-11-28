@@ -1,2 +1,2 @@
-# kayoko2003.gibhub.io
+# kayoko2003.github.io
 My website
